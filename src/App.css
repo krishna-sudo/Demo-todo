@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  display: inline-block;
+  background: #555;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer;
+  border: 0px;
+}
